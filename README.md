@@ -4,5 +4,5 @@ English dictionary project
 # Live
 https://hakan-gul.github.io/dictionary-app/
 
-## Technologies
+# Technologies
 HTML, Tailwind-CSS, Javascript
